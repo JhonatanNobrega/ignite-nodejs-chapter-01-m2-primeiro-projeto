@@ -1,0 +1,17 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JhonatanNobrega/ignite-nodejs-chapter-01-m2-primeiro-projeto",
+  "author": "Jhonatan Nobrega <jhonatan_nobrega@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
